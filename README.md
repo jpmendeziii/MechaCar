@@ -42,8 +42,9 @@ Similarly, but significantly more consistent, Lot 1 and Lot 2 are well within th
 
 
 ## Deliverable 3
-
 ## T-Tests on Suspension Coils
+In this section t-tests are performed to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
+
 RScript for t-test that compares all manufacturing lots against mean PSI of the population shown below.
 
 ![Resources/Images/D3_1_One_Sample_Test.jpg](Resources/Images/D3_1_One_Sample_Test.jpg)
