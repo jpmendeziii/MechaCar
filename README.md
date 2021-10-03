@@ -18,7 +18,7 @@ Perform multiple linear regression analysis, collect summary statistics, run t-t
 ## Study Design: MechaCar vs. Competition
 This study would involve collecting data on MechaCar and its comparable models across several different manufacturers over the last 3 years.
 
-What are the competitions' comparable models?
+What are the comparable models from the competition?
 Which cars will MechaCar be competing with head-to-head? which cars will be included in the study?
 Which factors will look at the study to determine the relevant to selling price?
 
