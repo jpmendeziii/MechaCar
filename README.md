@@ -42,7 +42,14 @@ Similarly, but significantly more consistent, Lot 1 and Lot 2 are well within th
 
 
 ## Deliverable 3
+
+## T-Tests on Suspension Coils
+RScript for t-test that compares all manufacturing lots against mean PSI of the population shown below.
+
 ![Resources/Images/D3_1_One_Sample_Test.jpg](Resources/Images/D3_1_One_Sample_Test.jpg)
+
+RScript for three t-tests that compare each manufacturing lot against mean PSI of the population shown below.
+
 ![Resources/Images/D3_2_One_Sample_T_Test_3_Lots.jpg](Resources/Images/D3_2_One_Sample_T_Test_3_Lots.jpg)
 
 ## Deliverable 4
