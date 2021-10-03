@@ -2,6 +2,10 @@
 Perform multiple linear regression analysis, collect summary statistics, run t-tests and write a summary interpretation of the findings utilizing R and R Studio. 
 
 ## Deliverable 1
+## Linear Regression to Predict MPG
+The MechaCar_mpg.csv dataset contains mpg test results for 50 prototype MechaCars. The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance, were collected for each vehicle. Using your knowledge of R, you’ll design a linear model that predicts the mpg of MechaCar prototypes using several variables from the MechaCar_mpg.csv file.
+### Model result 
+mpg = (6.267)vehicle_length + (0.0012)vehicle_weight + (0.0688)spoiler_angle + (3.546)ground_clearance + (-3.411)AWD + (-104.0)
 ![Resources/Images/D1_Statistical_Summary.jpg](Resources/Images/D1_Statistical_Summary.jpg)
 ![Resources/Images/D1_Updated_MPG.jpg](Resources/Images/D1_Updated_MPG.jpg)
 ## Deliverable 2
