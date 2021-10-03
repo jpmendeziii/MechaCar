@@ -28,6 +28,7 @@ First looking at all manufacturing lots:
 
 ![Resources/Images/D2_TotalSummaryDF.jpg](Resources/Images/D2_TotalSummaryDF.jpg)
 
+Here are the manufacturing lots split into 3 groups:
 
 ![Resources/Images/D2_Lot_Summary_DF.jpg](Resources/Images/D2_Lot_Summary_DF.jpg)
 
