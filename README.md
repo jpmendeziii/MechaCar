@@ -23,7 +23,7 @@ Which cars will MechaCar be competing with head-to-head? which cars will be incl
 Which factors will look at the study to determine the relevant to selling price?
 
 ### Metrics
-Collecting data for comparable models across all major manufacturers for past 3 years for the following metrics:
+Collecting data for comparable models across all major manufacturers for the past few years for the following metrics:
 
 * Safety Feature Rating: Independent Variable
 * Current Price (Selling): Dependent Variable
