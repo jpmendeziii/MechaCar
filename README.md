@@ -21,7 +21,14 @@ If we remove the less impactful independent variables (vehicle weight, spoiler a
 ## Deliverable 2
 
 ## Summary Statistics on Suspension
+
+The Suspension Coil dataset provided for the MechaCar contains the results of testing the weight capacities of multiple suspension coils from multiple production lots to determine consistency.
+
+First looking at all manufacturing lots:
+
 ![Resources/Images/D2_TotalSummaryDF.jpg](Resources/Images/D2_TotalSummaryDF.jpg)
+
+
 ![Resources/Images/D2_Lot_Summary_DF.jpg](Resources/Images/D2_Lot_Summary_DF.jpg)
 
 ## Deliverable 3
